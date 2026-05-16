@@ -27,7 +27,7 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Roy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GhostNet-Ops&show_icons=true&theme=tokyonight" alt="Roy's GitHub Stats" />
 </p>
 
 ---
