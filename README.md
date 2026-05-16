@@ -1,43 +1,43 @@
-# 🛡️ GhostNet-Ops | Roy Marcillo
+# Hi there, I'm Roy! 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=glitch&color=00ff00&height=200&section=header&text=GhostNet-Ops&fontSize=80" />
-</p>
+🧠 **15-Year-Old Tech Enthusiast & Cybersecurity Student**  
+🚀 Passioned about Ethical Hacking, Cyber Security, and Automation. I love exploring how things work under the hood and building secure, efficient solutions.
 
-### 👨‍💻 About Me
-- 🎓 **Student** at Holtz Air Force High School.
-- 🛡️ **Cyber Security & Ethical Hacking** - Focus on OSINT and Network Scanning.
-- 🐍 **Python Developer** - Building tools for automation and security.
-- 💻 **Hardware Enthusiast** - Working with PC building and microcontrollers.
+---
+
+### 🛡️ About Me
+
+- 💻 **Current Focus:** Deep diving into **Ethical Hacking & Cyber Security**.
+- 🛠️ **What I Do:** Developing security tools, automation scripts, and exploring network penetration concepts.
+- 🏢 **Environment:** My playground is **Kali Linux**, where I test, learn, and break things safely.
+- 🎨 **Web:** I also build clean frontend interfaces using **HTML & CSS**.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Programming & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **OS & Security** | ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+---
+
+### 📈 GitHub Stats
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nmap-006400?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Roy's GitHub Stats" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📫 Connect with Me
+
+- 💬 Ask me about **Python, Networking, or OSINT**.
+- ⚡ **Fun fact:** I believe that the best way to secure a system is to understand exactly how to break it.
+
+---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GhostNet-Ops&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostNet-Ops&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
-
----
-
-### 🔭 Current Focus
-- 🎯 Mastering **Ethical Hacking** concepts.
-- 🛠️ Improving **Python** skills for security automation.
-- 🔍 Exploring **OSINT** techniques and tools.
-
----
-
-<p align="right">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
+  <i>"Stay curious, keep hacking (ethically)!"</i>
 </p>
