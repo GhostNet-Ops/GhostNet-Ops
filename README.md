@@ -27,9 +27,9 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GhostNet-Ops&show_icons=true&theme=tokyonight" alt="Roy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roy marcillo&show_icons=true&theme=tokyonight" alt="Roy's GitHub Stats" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostNet-Ops&layout=compact&theme=tokyonight" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy marcillo&layout=compact&theme=tokyonight" alt="Top Langs" />
 
 ---
 
